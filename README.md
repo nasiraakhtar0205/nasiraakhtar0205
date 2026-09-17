@@ -36,16 +36,97 @@ I enjoy finding defects, designing test scenarios, validating data, and thinking
 - REST APIs
 - JSON
 
-### 📂 QA Projects
+## 🧪 QA Projects
 
-| Project | Description |
-|---|---|
-| 🧪 Manual Web Application Testing | Test planning, test cases, exploratory testing, regression testing, and defect documentation |
-| 🔌 API & Backend Testing | REST API testing, request/response validation, negative testing, and defect reporting |
-| 🗄️ SQL Database Validation | SQL queries used to validate backend data and application behavior |
-| 🥒 BDD / Cucumber Testing | Gherkin feature files and behavior-driven test scenarios |
-| 🐍 Python QA Testing | Python-based testing utilities and QA-focused scripts |
+### 1. E-Commerce Manual Testing
+**Manual Functional Testing | Test Cases | Validation | Defect Analysis**
 
+Performed structured manual testing of an e-commerce application with focus on user registration and input validation.
+
+**Covered:**
+- Functional testing
+- Positive & negative testing
+- Boundary testing
+- Required-field validation
+- Test case documentation
+- Defect/observation reporting
+
+📁 [View Project](https://github.com/nasiraakhtar0205/qa-ecommerce-manual-testing)
+
+---
+
+### 2. API & Backend Testing
+**REST API | Postman | JSON | HTTP Methods | Backend Validation**
+
+QA portfolio project demonstrating API and backend testing across REST endpoints.
+
+**Covered:**
+- GET / POST / PUT / PATCH / DELETE
+- HTTP status-code validation
+- JSON response validation
+- Query parameters
+- Headers
+- Negative testing
+- Boundary testing
+- API behavior and limitations
+
+📁 [View Project](https://github.com/nasiraakhtar0205/api-backend-testing)
+
+---
+
+### 3. SQL Database Testing
+**SQL | Database Validation | Data Integrity | Joins**
+
+Database testing project focused on validating data integrity and identifying inconsistent or invalid records.
+
+**Covered:**
+- SQL queries
+- Data integrity
+- Primary & foreign keys
+- NULL validation
+- Duplicate detection
+- JOIN validation
+- Aggregation & reconciliation
+- Boundary and negative testing
+
+📁 [View Project](https://github.com/nasiraakhtar0205/sql-database-testing)
+
+---
+
+### 4. BDD / Cucumber Testing
+**BDD | Cucumber | Gherkin | Acceptance Testing**
+
+Behavior-driven testing project using Gherkin scenarios to define application behavior and acceptance criteria.
+
+**Covered:**
+- Given / When / Then scenarios
+- Login testing
+- Cart testing
+- Checkout testing
+- Validation scenarios
+- Negative testing
+- Regression scenarios
+
+📁 [View Project](https://github.com/nasiraakhtar0205/bdd-cucumber-testing)
+
+---
+
+### 5. Python QA Automation
+**Python | pytest | Test Automation | Validation**
+
+Python-based QA automation project demonstrating automated validation and reusable test scenarios.
+
+**Covered:**
+- pytest
+- Parameterized testing
+- Assertions
+- Positive testing
+- Negative testing
+- Boundary testing
+- Input validation
+- Regression testing
+
+📁 [View Project](https://github.com/nasiraakhtar0205/python-qa-automation)
 ### 📊 What You'll Find in My Repositories
 
 Each project is designed to demonstrate real QA workflows, including:
@@ -61,10 +142,14 @@ Each project is designed to demonstrate real QA workflows, including:
 - Testing evidence and screenshots
 - Test summaries
 
-### 🎯 Currently Building
+## 🚀 Currently Focused On
 
-I'm currently expanding this portfolio with practical QA projects covering manual testing, API testing, backend validation, SQL, BDD/Cucumber, and Python.
-
+- QA Analyst / QA Tester opportunities
+- Manual & functional testing
+- API & backend testing
+- SQL/database validation
+- BDD/Cucumber testing
+- Python test automation
 ---
 
 📫 **Open to QA / Software Testing opportunities**
